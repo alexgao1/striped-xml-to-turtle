@@ -7,7 +7,7 @@ Developed on Windows 10, Python 3.8.3.
 ## Install
 1. `python3 -m venv env`
 2. `. env/bin/activate` (or `env\Scripts\activate.bat` if Windows)
-3. `cd env`
+3. `cd to_where_you_cloned_the_repository`
 4. `pip install -r requirements.txt` (`pip install -r requirements-dev.txt` if you want to dev but all that really adds is flake8)
 5. `python stripedXmlToTurtle.py --help`
 
